@@ -1,0 +1,7 @@
+﻿  Project.cpp
+C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\project test\Project.cpp(239,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\project test\Project.cpp(265,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\project test\Project.cpp(395,11): warning C4129: '(': unrecognized character escape sequence
+C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\project test\Project.cpp(397,11): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\project test\Project.cpp(406,11): warning C4129: ':': unrecognized character escape sequence
+  project test.vcxproj -> C:\Users\steve\OneDrive\Escritorio\COP1334C - Codes\project test\Debug\project test.exe
